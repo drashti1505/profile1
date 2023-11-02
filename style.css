@@ -1,0 +1,12 @@
+body{
+    background-color: blueviolet;
+}
+img {
+    width: 190px;
+    height: 200px;
+    
+}
+.line
+{
+   border-right: solid 1px rgb(161, 160, 160);
+}
